@@ -5,9 +5,9 @@ A project-based on Alert Box and Toast . Here an application for beginners to le
 <img src="main.jpeg" width="280px" alt="Screenshot" />
 
 # Delivery:
-<img src="add.jpeg" width="280px" alt="Screenshot" />
+<img src="delivery.jpeg" width="280px" alt="Screenshot" />
 # Payment:
-<img src="sub.jpeg" width="280px" alt="Screenshot" />
+<img src="brands.jpeg" width="280px" alt="Screenshot" />
 
 # Brands:
-<img src="sub.jpeg" width="280px" alt="Screenshot" />
+<img src="prize.jpeg" width="280px" alt="Screenshot" />
